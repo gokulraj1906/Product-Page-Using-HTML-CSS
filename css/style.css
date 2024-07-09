@@ -1,0 +1,51 @@
+.row1{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-around;
+}
+.row2{
+    margin-top: 50px;
+    margin-left: 50px;
+    display:flex;
+    justify-content: space-around;
+}
+.models{
+    justify-content:space-around;
+}
+.model1{
+    background-color:grey;
+    width: 500px;
+    height: 480px;
+    border-radius: 30px;
+    align-items: center;
+}
+.model2{
+    background-color:grey;
+    width: 500px;
+    height: 480px;
+    border-radius: 30px;
+    align-items: center;
+}
+p{
+    padding: 20px;
+}
+h1{
+    padding: 10px;
+}
+.model2:hover{
+    background-color: black;
+    width: 510px;
+    height: 480px;
+}
+.model1:hover{
+    background-color: black;
+    width: 510px;
+    height: 490px;
+}
+.view{
+    background-color: white;
+    border-radius: 1px;
+    align-content: center;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
